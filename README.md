@@ -193,6 +193,7 @@ try:
 except Exception as e:
     print(f"❌ Error: {e}")
     print("🔧 Try: 1) Restart runtime 2) Check GPU 3) Smaller image")
+```
 
 ## LICENSE
 [MIT LICENSE](LICENSE)
